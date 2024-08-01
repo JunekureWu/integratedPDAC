@@ -5,4 +5,4 @@ This project supports the analysis of the PDAC microenvironment conducted by Wu 
 
 If you have utilized the research methods from this project, please remember to cite our paper in your research: DOI.XXX.XXXX.XX
 
-Contributors: Jun Wu, Wei Zhang, TengHui Dai.
+Contributors: Jun Wu, TengHui Dai, Wei Zhang.
