@@ -5,4 +5,4 @@ This project supports the analysis of the PDAC microenvironment conducted by Wu 
 
 If you have utilized the research methods from this project, please remember to cite our paper in your research: DOI.
 
-Contributors: [Jun Wu](https://github.com/JunekureWu), [TengHui Dai](https://github.com/lilguang), [Wei Zhang](https://github.com/shikizv), [Yang Liu](https://github.com/yliuup), and Jierong Chen.
+Contributors: [Jun Wu](https://github.com/JunekureWu), [TengHui Dai](https://github.com/lilguang), [Wei Zhang](https://github.com/shikizv), [Yang Liu](https://github.com/yliuup), and Jierong Chen et.al.
